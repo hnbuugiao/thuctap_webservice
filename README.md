@@ -9,7 +9,7 @@ Thông số cài đặt:
 - Visual Studio 2015 (IIS Server)
 	+ Server=localhost
 	+ Port=29444
-
+	+ Đổi thông tin connection project: Folder Connections->ConnectionString -> Thay đổi
 - Thông tin câu lệnh:
 
 - GET
